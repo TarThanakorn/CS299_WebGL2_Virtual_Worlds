@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding : 0;
+}
+
+.button1 {
+  position: absolute;
+  top: 2%;
+  right: 10px;
+}
+
+.button2 {
+  position: absolute;
+  top: 12%;
+  right: 10px;
+}
+
+.button3 {
+  position: absolute;
+  top: 22%;
+  right: 10px;
+}
+
+.button4 {
+  position: absolute;
+  top: 32%;
+  right: 10px;
+}
+
+.button5 {
+  position: absolute;
+  top: 42%;
+  right: 10px;
+}
+
+.button6 {
+  position: absolute;
+  top: 52%;
+  right: 10px;
+}
+
+.button7 {
+  position: absolute;
+  top: 62%;
+  right: 10px;
+}
+
+.button8 {
+  position: absolute;
+  top: 72%;
+  right: 10px;
+}
+
+.button9 {
+  position: absolute;
+  top: 82%;
+  right: 10px;
+}
+
+.noselect {
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -o-user-select: none;
+    user-select: none;
+}
